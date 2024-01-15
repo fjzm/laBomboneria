@@ -1,0 +1,183 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  background-color: #FFFDE3;
+}
+
+.primColour {
+  color: #ff5471;
+}
+
+#primeColour {
+  color: #ff5471;
+  text-decoration: underline;
+  margin-left: 10px;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+.thin {
+  font-weight: 300;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.bold {
+  font-size: bold;
+}
+
+.navbar {
+  background-color: #FFFDE3;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-color: #ff5471;
+}
+
+.navbar-toggler {
+  color: #ff5471 !important;
+  outline: none;
+}
+
+.navbar-toggler-icon {
+  background-color: #ff5471;
+}
+
+.navbar-nav .nav-link {
+  color: #ff5471 !important;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.navbar-toggler {
+  color: #ff5471 !important;
+}
+
+.navbar-toggler-icon {
+  border: 4px solid #ff5471;
+  color: #ff5471;
+}
+
+.search-button {
+  color: #ff5471;
+  font-weight: bold;
+  background-color: #FFFDE3;
+  border: 2px solid #ff5471;
+  border-radius: 20px;
+}
+
+.search-input {
+  color: #ff5471;
+  font-weight: bold;
+  background-color: #ffffff;
+  border: 2px solid #ff5471;
+  border-radius: 20px;
+}
+
+.carousel {
+  width: 100%;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+}
+
+.gallery-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #ff5471 !important;
+}
+
+.gallery-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.product-container {
+  align-items: center;
+}
+
+.product-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 16px;
+}
+
+.product-details {
+  flex-grow: 1;
+}
+
+.quantity-input {
+  width: auto;
+  text-align: center;
+}
+
+.buy-now-button {
+  width: auto;
+}
+
+.image {
+  max-width: 100%;
+  /* Hace que las imágenes sean responsivas */
+  height: auto;
+}
+
+.form-container {
+  max-width: 800px;
+  /* Ancho máximo del formulario */
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+
+
+
+
+.footer-dark {
+  padding: 50px;
+  color: #f0f9ff;
+  background-color: #282d32;
+}
+
+.footer-dark ul {
+  padding: 0;
+  list-style: none;
+  line-height: 1.6;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.footer-dark ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+.footer-dark ul a:hover {
+  opacity: 0.8;
+}
+
+.footer-dark .copyright {
+  text-align: center;
+  padding-top: 24px;
+  opacity: 0.3;
+  font-size: 13px;
+  margin-bottom: 0;
+}
